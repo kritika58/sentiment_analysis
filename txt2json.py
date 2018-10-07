@@ -1,5 +1,5 @@
 import json
-
+#jsonfile
 f=open("data.txt")
 data=f.read()
 print(type(eval(data)))
